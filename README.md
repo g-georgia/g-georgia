@@ -19,5 +19,15 @@
 Visit my LinkedIn profile:
 
 <a href="https://www.linkedin.com/in/georgina-g/">
-  <img src="/images/Soft-watercolor-Linkedin-logo-PNG.png" width="50">
+  <img align="center" src="/images/Soft-watercolor-Linkedin-logo-PNG.png" width="50">
 </a>
+
+<p align="center">
+  <a href="https://github.com/g-georgia/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=g-georgia&show_icons=true&theme=dark" />
+  </a>
+<br><br>
+  <a href="https://github.com/g-georgia/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-georgia&show_icons=true&theme=dark&layout=compact" />
+  </a>
+</p>
