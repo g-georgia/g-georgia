@@ -7,16 +7,17 @@
 
 🔭 Skills/Interests: React, Javascript, HTML, CSS, Bootstrap, Material UI, OOP in Java, Spring, JPA, Flask, Postgresql, Jinja, Thymeleaf and just started learning Angular
 
-<div style="display: flex; justify-content: center">
+<p align="center">
   <img src ="/images/Daco_358536.png" height="50">
   <img src ="/images/react-logo.png" height="50">
   <img src ="/images/java_horz_clr.png" height="50">
   <img src ="/images/spring.png" height="50">
-</div>
+</p>
 
 ⚡ Fun fact: I am also a psychology student at the University of Szeged, HU
 
 Visit my LinkedIn profile:
+
 <a href="https://www.linkedin.com/in/georgina-g/">
   <img src="/images/Soft-watercolor-Linkedin-logo-PNG.png" width="50">
 </a>
