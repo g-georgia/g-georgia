@@ -1,6 +1,6 @@
 <img src ="/images/Creativity-Barin-Hero-Image.jpg">
 
-<h1 style="text-align:center;">Hi there, I'm Georgia </h1>
+<h1 align="center">Hi there, I'm Georgia </h1>
 
 
 🌱 During my studies at Codecool I like frontend development the most, but I studied several frontend and backend technologies. With my teammates we work according to SCRUM methodology and also I fulfilled SCRUM master position many times.
